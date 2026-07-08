@@ -2178,6 +2178,18 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Developer Tools"
+    },
+    {
+      "name": "upkuajing",
+      "source": {
+        "source": "local",
+        "path": "./plugins/upkuajing"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Business & Operations"
     }
   ]
 }

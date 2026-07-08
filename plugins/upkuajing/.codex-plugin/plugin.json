@@ -1,0 +1,68 @@
+{
+  "name": "upkuajing",
+  "version": "1.0.0",
+  "description": "UpKuaJing (跨境魔方) business intelligence suite. Search customs trade records, find global companies and people, discover map merchants, send bulk emails/SMS, and validate contact information.",
+  "author": {
+    "name": "UpKuaJing",
+    "url": "https://www.upkuajing.com"
+  },
+  "homepage": "https://www.upkuajing.com",
+  "repository": "https://github.com/Upkuajing",
+  "license": "MIT",
+  "keywords": [
+    "customs-trade",
+    "company-search",
+    "people-search",
+    "map-merchants",
+    "email",
+    "sms",
+    "contact-validation",
+    "lead-generation",
+    "import-export",
+    "supply-chain",
+    "hscode",
+    "b2b-leads",
+    "trade-data",
+    "global-trade",
+    "exporter",
+    "importer",
+    "supplier",
+    "buyer",
+    "linkedin",
+    "talent-search",
+    "recruiting",
+    "跨境魔方",
+    "海关数据",
+    "外贸获客",
+    "企业搜索",
+    "地图获客",
+    "领英",
+    "找人",
+    "外贸",
+    "出海",
+    "跨境电商"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "UpKuaJing",
+    "shortDescription": "Customs trade, company & people search, email/SMS, contact validation",
+    "longDescription": "UpKuaJing (跨境魔方) provides a complete business intelligence toolkit for import/export professionals. Search customs trade records, find global companies and people, discover map merchants, send bulk emails and SMS, and validate contact information — all with a single API key.",
+    "developerName": "UpKuaJing",
+    "category": "Business & Operations",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Find companies importing electronics from China using customs trade data",
+      "Search for soybean buyers in the US",
+      "Find company contacts with email addresses"
+    ],
+    "websiteURL": "https://www.upkuajing.com",
+    "privacyPolicyURL": "https://www.upkuajing.com/yinsi.html",
+    "termsOfServiceURL": "https://www.upkuajing.com/xieyi.html",
+    "brandColor": "#2563EB",
+    "logo": "./assets/icon.png"
+  }
+}
